@@ -3,10 +3,6 @@
 Web Programming with Python and JavaScript
 
 ---
-## NOTE TO MARKER
-This assignment is a couple of days late.  I asked Brian for an extension due to extenuating personal circumstances and he kindly granted an extension until Thursday (today at the time of pull request) so hopefully I will not incur any loss of marks as a result.
-
----
 ## Overview
 
 For this project I built a simple chat app using Flask and SocketIO.  The app supports multiple channels and "remembers" the user between sessions.
